@@ -1,6 +1,0 @@
-site_name: MKD1
-pages:
-    - Home: index.md
-    - About: about.md
-
-theme: readthedocs
